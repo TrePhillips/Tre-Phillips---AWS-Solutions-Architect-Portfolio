@@ -49,3 +49,22 @@ Welcome! This is my personal AWS portfolio designed to showcase my hands-on arch
 
 ## 📁 Repo Structure
 
+```
+/portfolio
+├── scalable-web-app/
+│   └── architecture.md
+├── serverless-app/
+│   └── architecture.md
+├── data-pipeline/
+│   └── architecture.md
+├── diagrams/
+│   ├── scalable-web-app.png
+│   ├── serverless-app.png
+│   └── data-pipeline.png
+└── README.md
+```
+
+---
+
+## 👋 About Me
+I'm a sales-turned-solutions-architect focused on helping companies make smarter, faster, and scalable decisions in the cloud. AWS Certified Solutions Architect – Associate (2025). Let's build something awesome.
